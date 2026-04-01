@@ -1,0 +1,13 @@
+r testcases/basic_add.s
+bt
+b calculator.c:45
+r testcases/basic_add.s
+b calculator.c:6
+r testcases/basic_add.s
+next
+print new_token
+print val_b
+q
+show command
+touch gdb_logs.txt
+q

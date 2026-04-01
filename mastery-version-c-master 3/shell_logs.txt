@@ -1,0 +1,500 @@
+   16  make
+   17  make
+   18  make
+   19  make
+   20  make
+   21  make
+   22  make
+   23  make
+   24  make week2
+   25  make
+   26  make
+   27  make
+   28  make
+   29  make
+   30  make
+   31  make
+   32  make week2
+   33  make week1
+   34  make
+   35  make
+   36  make week1
+   37  make week3
+   38  bin/test-hw
+   39  bin/test-hw -o PLUS_OP
+   40  make
+   41  make
+   42  make
+   43  make
+   44  make
+   45  make
+   46  bin/test-hw
+   47  bin/test-hw -o PLUS_OP
+   48  make
+   49  bin/test-hw
+   50  bin/test-hw -o PLUS_OP
+   51  bin/test-hw -o -a -r PLUS_OP
+   52  bin/test-hw -o -a  PLUS_OP
+   53  bin/test-hw -o   PLUS_OP
+   54  bin/test-hw  PLUS_OP
+   55  bin/test-hw 
+   56  make
+   57  bin/test-hw  PLUS_OP
+   58  bin/test-hw -o   PLUS_OP
+   59  make
+   60  bin/test-hw -o   PLUS_OP
+   61  make
+   62  bin/test-hw -o   PLUS_OP
+   63  make
+   64  make
+   65  bin/test-hw -o   PLUS_OP
+   66  make
+   67  bin/test-hw -o   PLUS_OP
+   68  make
+   69  make
+   70  bin/test-hw -o   PLUS_OP
+   71  bin/test-hw -r  PLUS_OP
+   72  make
+   73  bin/test-hw -r MINUS_OP
+   74  bin/test-hw 
+   75  bin/test-hw 
+   76  make
+   77  bin/test-hw -r  PLUS_OP
+   78  bin/test-hw -o   PLUS_OP
+   79  make
+   80  bin/test-hw -o   PLUS_OP
+   81  make week1
+   82  bin/test-hw -o   PLUS_OP
+   83  make
+   84  bin/test-hw -o   PLUS_OP
+   85  bin/test-hw -o   PLUS_OP
+   86  make
+   87  bin/test-hw -o   PLUS_OP
+   88  make week1
+   89  make
+   90  bin/test-hw -o   PLUS_OP
+   91  bin/test-hw -o   
+   92  make week1
+   93  bin/test-hw -o  OR_OP
+   94  make
+   95  bin/test-hw -o  OR_OP
+   96  bin/test-hw -o EOR_OP
+   97  make
+   98  bin/test-hw -o  PASS_A_OP
+   99  make
+  100  bin/test-hw -o LSL_OP
+  101  bin/test-hw -o LSR_OP
+  102  make
+  103  bin/test-hw -o LSR_OP
+  104  bin/test-hw -o LSR_OP
+  105  make
+  106  bin/test-hw -o LSL_OP
+  107  bin/test-hw -o LSR_OP
+  108  bin/test-hw -o ASR_OP
+  109  bin/test-hw 
+  110  make
+  111  bin/test-hw make
+  112  make
+  113  bin/test-hw -o MOVK_OP
+  114  make
+  115  make
+  116  make
+  117  bin/test-hw
+  118  bin/test-hw -o MOVK_OP
+  119  bin/test-hw -o MOV_OP
+  120  make
+  121  bin/test-hw -o MOV_OP
+  122  make
+  123  bin/test-hw -o MOV_OP
+  124  make
+  125  bin/test-hw -o
+  126  bin/test-hw
+  127  make
+  128  bin/test-hw -o
+  129  bin/test-hw -o MOV_OP
+  130  make
+  131  bin/test-hw -o PLUS_OP
+  132  make
+  133  bin/test-hw -o PLUS_OP
+  134  make
+  135  bin/test-hw -o PLUS_OP
+  136  make
+  137  bin/test-hw -o PLUS_OP
+  138  make
+  139  bin/test-hw -o PLUS_OP
+  140  make
+  141  bin/test-hw -o PLUS_OP
+  142  make
+  143  make
+  144  bin/test-hw -o PLUS_OP
+  145  make
+  146  bin/test-hw -o PLUS_OP
+  147  make
+  148  bin/test-hw -o PLUS_OP
+  149  make
+  150  bin/test-hw -o PLUS_OP
+  151  bin/test-hw -o PASS_A_OP
+  152  make
+  153  bin/test-hw -o PASS_A_OP
+  154  make
+  155  bin/test-hw -o PASS_A_OP
+  156  bin/test-hw -o PLUS_OP
+  157  make
+  158  make
+  159  make
+  160  bin/test-hw -o PLUS_OP
+  161  make
+  162  bin/test-hw -o PLUS_OP
+  163  make
+  164  bin/test-hw -o PLUS_OP
+  165  make
+  166  bin/test-hw -o PLUS_OP
+  167  make
+  168  bin/test-hw -o PLUS_OP
+  169  make
+  170  bin/test-hw -o PLUS_OP
+  171  make
+  172  make
+  173  bin/test-hw -o PLUS_OP
+  174  make
+  175  make
+  176  make
+  177  bin/test-hw -o PLUS_OP
+  178  bin/test-hw -o PLUS_OP
+  179  make
+  180  bin/test-hw -o PLUS_OP
+  181  make
+  182  bin/test-hw -o PLUS_OP
+  183  make
+  184  bin/test-hw -o PLUS_OP
+  185  make
+  186  make
+  187  bin/test-hw -o PLUS_OP
+  188  make
+  189  bin/test-hw -o PLUS_OP
+  190  make
+  191  make
+  192  bin/test-hw -o PLUS_OP
+  193  make
+  194  bin/test-hw -o PLUS_OP
+  195  make
+  196  bin/test-hw -o PLUS_OP
+  197  make
+  198  bin/test-hw -o PLUS_OP
+  199  make
+  200  bin/test-hw -o PLUS_OP
+  201  make
+  202  make
+  203  bin/test-hw -o PASS_A_OP
+  204  make
+  205  bin/test-hw -o PASS_A_OP
+  206  make
+  207  bin/test-hw -o PLUS_OP
+  208  make
+  209  bin/test-hw -o PLUS_OP
+  210  make
+  211  bin/test-hw -o PLUS_OP
+  212  make
+  213  bin/test-hw -o PLUS_OP
+  214  make
+  215  bin/test-hw -o PLUS_OP
+  216  gdb bin
+  217  gdb test-se
+  218  make
+  219  bin/test-hw
+  220  gdb bin
+  221  make
+  222  bin/test-hw
+  223  bin/test-hw -o PLUS_OP
+  224  bin/test-hw  PLUS_OP
+  225  bin/test-hw MINUS_OP
+  226  bin/test-hw -o MOV_OP
+  227  make
+  228  bin/test-hw -o MOV_OP
+  229  bin/test-hw -o MOV_OP
+  230  make
+  231  bin/test-hw -o MOV_OP
+  232  bin/test-hw -o MOVK_OP
+  233  make
+  234  bin/test-hw -o MOVK_OP
+  235  git push
+  236  git commit
+  237  git add
+  238  git add .
+  239  git addgit commit
+  240  git commit
+  241  make
+  242  bin/test-hw
+  243  bin trex
+  244  make trex
+  245  make stego
+  246  make
+  247  gdb bin/bin/parser.o
+  248  gdb bin/parser.o
+  249  make stego
+  250  make stego
+  251  make stego
+  252  gdb bin
+  253  gdb bin/parser
+  254  gdb bin
+  255  make raptor
+  256  make trike
+  257  gdb bin
+  258  make trike
+  259  gdb bin/orderlogs
+  260  gdb bin/orderlogs
+  261  make tike
+  262  make trike
+  263  make
+  264  make trike
+  265  make
+  266  make trike
+  267  make stego
+  268  gdb bin/orderlogs
+  269  gdb bin/orderlogs
+  270  make stego
+  271  gdb bin/orderlogs
+  272  make stegoq
+  273  make stegoq
+  274  make stego
+  275  gdb bin/orderlogs
+  276  make stego
+  277  make stego
+  278  make
+  279  make stego
+  280  make
+  281  make stego
+  282  gdb bin/orderlogs
+  283  gdb bin/orderlogs
+  284  make stego
+  285  gdb bin/orderlogs
+  286  q
+  287  make clean
+  288  make trike
+  289  gdb bin/orderlogs
+  290  make trike
+  291  make
+  292  make trike
+  293  make stego
+  294  gdb bin/orderlogs
+  295  make trike
+  296  gdb bin/orderlogs
+  297  make trike
+  298  gdb bin/orderlogs
+  299  make trike
+  300  gdb bin/orderlogs
+  301  make trike
+  302  make stego
+  303  gdb ref_order
+  304  make clean
+  305  gdb trike
+  306  make trike
+  307  q
+  308  touch file
+  309  ls
+  310  ls -a
+  311  echo hi < file
+  312  ls
+  313  more file
+  314  echo hi < file
+  315  cat file
+  316  cd file
+  317  pwd
+  318  echo hi < /u/sasik5/file.txt
+  319  echo hi < /u/sasik5/file
+  320  cat file
+  321  git clone
+  322  git commit https://github.com/sasik3/ooo.git
+  323  git push https://github.com/sasik3/ooo.git
+  324  git clone https://github.com/sasik3/ooo.git
+  325  git clone https://github.com/sasik3/mmmmmm.git
+  326  make moana
+  327  bin/second_trie
+  328  bin
+  329  bin/bin/second_trie
+  330  make tamatoa
+  331  gdb bin/second_trie
+  332  gdb bin/second_trie
+  333  make clean
+  334  make nalo
+  335  make maui
+  336  gdb bin/second_trie
+  337  make maui
+  338  make tamatoa
+  339  gdb bin/second_trie
+  340  make tamatoa
+  341  trie_ref
+  342  make hei
+  343  chmod trie_ref
+  344  chmod --help
+  345  chmod trie_ref rwxrwxrwx
+  346  cmod -R 777 trie_ref
+  347  chmod -R 777 trie_ref
+  348  trie_ref
+  349  r -f trie_ref
+  350  trie_ref
+  351  -f trie_ref
+  352  history
+  353  history > shell_logs.txt
+  354  vim shell)logs.txt
+  355  vim shell_logs.txt
+  356  git add .
+  357  git commit -m "done"
+  358  git status
+  359  git push
+  360  make snow
+  361  make doc
+  362  make
+  363  make grumpy
+  364  git clone https://github.com/sasik3/p--oijhgujiokpl-.git
+  365  make snow
+  366  make doc
+  367  make dopey
+  368  gdb bin/second_trie
+  369  make doc
+  370  make happy
+  371  make doc
+  372  gdb bin/second_trie
+  373  make doc
+  374  make dopey
+  375  make happy
+  376  make doc
+  377  gdb bin/second_trie
+  378  make doc
+  379  make dopey
+  380  make grumpy
+  381  chmod trie_ref rwx_rwx_rwx
+  382  chmod --help
+  383  chmod -R 777 trie_ref
+  384  trie_ref
+  385  make grumpy
+  386  history > shell_logs.txt
+  387  vin shell_logs.txt
+  388  vim shell_logs.txt
+  389  gdb bin/second_trie
+  390  make grumpy
+  391  git add .
+  392  git commit
+  393  git commit -m "done"
+  394  git push
+  395  git clone https://github.com/sasik3/ftgyhujjgjk.git
+  396  touch ~/.gdbinit
+  397  echo set history save on > ~/.gdbinit
+  398  ls -a
+  399  more .gdbinit
+  400  make debug
+  401  make comp
+  402  chmod -R 777 ref.out
+  403  make comp
+  404  ref_out
+  405  gdb bin/a.out
+  406  gdb bin/a.out
+  407  make debug
+  408  make check
+  409  gdb bin/a.out
+  410  make debug
+  411  make check
+  412  make debug
+  413  gdb bin/a.out
+  414  make debug
+  415  make check
+  416  gdb bin/a.out
+  417  make check
+  418  gdb bin/a.out
+  419  make check
+  420  make debug
+  421  make check
+  422  make check
+  423  make check
+  424  make
+  425  make
+  426  make check
+  427  gdb bin/a.out
+  428  make debug
+  429  make clean
+  430  make debug
+  431  gdb bon/a.out
+  432  gdb bin/a.out
+  433  make debug
+  434  make check
+  435  make debug
+  436  make debug
+  437  make check
+  438  make clean
+  439  make check
+  440  make debug
+  441  make check
+  442  touch ~/.gdbinit
+  443  ls -a
+  444  echo set history save on > ~./gdbinit
+  445  echo set history save on > ./gdbinit
+  446  ls -a
+  447  more ./gdbinit
+  448  git clone https://github.com/sasik3/dfghijlkhgfhjkl.git
+  449  make debug
+  450  make check
+  451  gdb mini_ci
+  452  make check
+  453  chmd -R 777 mini_ci_reference
+  454  make check
+  455  chmod -R 777 ./mini_ci_reference
+  456  make check
+  457  history > shell_logs.txt
+  458  vim shell_logs.txt
+  459  show commands
+  460  install-mh
+  461  show commands
+  462  gdb mini_ci
+  463  touch gdb_logs.txt
+  464  git add.
+  465  make check
+  466  git add .
+  467  git commit -m "done"
+  468  git clone
+  469  git commit
+  470  git push
+  471  touch ~./gdbinit
+  472  touch ./gdbinit
+  473  ls -a
+  474  echo set history save on > /.gdbinit
+  475  touch ~./gdbinit
+  476  touch ~/.gdbinit
+  477  ls -a
+  478  touch ~/.gdbinit
+  479  ls -a
+  480  echo set history save on > ~/.gdbinit
+  481  ls -a
+  482  more ~/.gdbinit
+  483  git clonehttps://github.com/cs429-sp2026/drftgyhujiuhgyuhkl.git
+  484  git clone https://github.com/cs429-sp2026/drftgyhujiuhgyuhkl.git
+  485  git clone https://github.com/cs429-sp2026/drftgyhujiuhgyuhkl.git
+  486  ssh sasik5@ruby.cs.utexas.edu
+  487  git clone https://github.com/sasik3/dfghijlkhgfhjkl.git
+  488  git clone https://github.com/sasik3/dfghijlkhgfhjkl.git
+  489  git clone https://github.com/sasik3/tfyghjkl.git
+  490  q
+  491  touch ~/.gdbinit
+  492  ls
+  493  ls -a
+  494  echo set history save on > ~/.gdbinit
+  495  l -a
+  496  ls -a
+  497  more  ~/.gdbinit
+  498  less  ~/.gdbinit
+  499  git clone https://github.com/cs429-sp2026/cfgvhjkl.git
+  500  git clone https://github.com/cs429-sp2026/cfgvhjkl.git
+  501  make deug
+  502  make debug
+  503  make clean
+  504  make tests
+  505  make debug
+  506  make clean
+  507  make debug
+  508  gdb mini_ci
+  509  make debug
+  510  make tests
+  511  make check
+  512  chmod-R 777 mini_ci_reference
+  513  chmod -R 777 mini_ci_reference
+  514  make check
+  515  history > shell_logs.txt
